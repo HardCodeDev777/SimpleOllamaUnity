@@ -15,7 +15,7 @@
 ## 🚀 Overview
 
 **SimpleOllamaUnity** is an Unity extension that lets you communicate with Ollama in just two lines of code!
-It also works in runtime, so you can use it in your games!
+It also works at runtime, so you can use it in your games!
 
 You can easily configure the following for a quick start:
 - 🤖 Model
