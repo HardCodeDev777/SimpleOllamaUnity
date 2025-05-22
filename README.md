@@ -6,7 +6,7 @@
 ![Tag](https://img.shields.io/github/v/tag/HardCodeDev777/SimpleOllamaUnity)
 ![Top lang](https://img.shields.io/github/languages/top/HardCodeDev777/SimpleOllamaUnity)
 
-# 🦙 SimpleOllamaUnity — Unity Editor Tool
+# 🦙 SimpleOllamaUnity — Unity Extension
 
 > Communicate with local LLMs in Unity using [Ollama](https://ollama.com) — in just **two lines of code**.
 
