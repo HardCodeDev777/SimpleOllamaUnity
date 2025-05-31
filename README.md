@@ -8,6 +8,10 @@
 
 # 🦙 SimpleOllamaUnity — Unity Extension
 
+Listed in [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations)
+
+&nbsp;
+
 > Communicate with local LLMs in Unity using [Ollama](https://ollama.com) — in just **two lines of code**.
 
 ---
