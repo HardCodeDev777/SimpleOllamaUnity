@@ -8,7 +8,9 @@
 
 # 🦙 SimpleOllamaUnity — Unity Extension
 
-Listed in [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations)
+Listed in [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations) 
+
+Listed in [ai-gamedev-tools](https://github.com/Yuan-ManX/ai-game-devtools?tab=readme-ov-file#tool-ai-llm)
 
 &nbsp;
 
