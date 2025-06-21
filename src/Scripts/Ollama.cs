@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace HardCodeDev.SimpleOllamaUnity
 {
     /// <summary>
-    /// Structure with Ollama settrings
+    /// Structure with Ollama settings
     /// </summary>
     [System.Serializable]
     public struct OllamaConfig
@@ -24,7 +24,7 @@ namespace HardCodeDev.SimpleOllamaUnity
     }
 
     /// <summary>
-    /// Structure with request settrings
+    /// Structure with request settings
     /// </summary>
     [System.Serializable]
     public struct OllamaRequest
@@ -40,7 +40,7 @@ namespace HardCodeDev.SimpleOllamaUnity
     }
 
     /// <summary>
-    /// Base class for communicating with Ollama
+    /// Class for communicating with Ollama
     /// </summary>
     public class Ollama : MonoBehaviour
     {
@@ -48,7 +48,7 @@ namespace HardCodeDev.SimpleOllamaUnity
         private IChatClient _chatClient;
 
         /// <summary>
-        /// Constructor to initiliaze Ollama
+        /// Constructor to initialize Ollama
         /// </summary>
         /// <param name="config">Ollama settings</param>
         public Ollama(OllamaConfig config) => InitOllama(config);
@@ -69,7 +69,7 @@ namespace HardCodeDev.SimpleOllamaUnity
         /// Method to send and get messages from LLM via Ollama
         /// </summary>
         /// <param name="request">Request settings</param>
-        /// <returns>LLM's reponse</returns>
+        /// <returns>LLM's response</returns>
         public async Task<string> SendMessage(OllamaRequest request)
         {
             _chatHistory.Add(new(ChatRole.User, request.userPrompt));
