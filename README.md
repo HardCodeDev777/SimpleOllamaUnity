@@ -112,12 +112,6 @@ public class Test : MonoBehaviour
 
 ---
 
-## 🛠 TODO
-
-- [ ] Review which `.dll` files in the `Plugins` folder are actually required and remove the unnecessary ones.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
