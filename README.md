@@ -6,7 +6,13 @@
 ![Tag](https://img.shields.io/github/v/tag/HardCodeDev777/SimpleOllamaUnity)
 ![Top lang](https://img.shields.io/github/languages/top/HardCodeDev777/SimpleOllamaUnity)
 
-# 🦙 SimpleOllamaUnity — Unity Editor Tool
+# 🦙 SimpleOllamaUnity — Unity Extension
+
+Listed in [Ollama Community Integrations](https://github.com/ollama/ollama?tab=readme-ov-file#community-integrations) 
+
+Listed in [ai-gamedev-tools](https://github.com/Yuan-ManX/ai-game-devtools?tab=readme-ov-file#tool-ai-llm)
+
+&nbsp;
 
 > Communicate with local LLMs in Unity using [Ollama](https://ollama.com) — in just **two lines of code**.
 
@@ -15,7 +21,7 @@
 ## 🚀 Overview
 
 **SimpleOllamaUnity** is an Unity extension that lets you communicate with Ollama in just two lines of code!
-It also works in runtime, so you can use it in your games!
+It also works at runtime, so you can use it in your games!
 
 You can easily configure the following for a quick start:
 - 🤖 Model
@@ -106,25 +112,7 @@ public class Test : MonoBehaviour
 
 ---
 
-## 🛠 TODO
-
-- [ ] Review which `.dll` files in the `Plugins` folder are actually required and remove the unnecessary ones.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for full terms.
-
----
-
-## 👨‍💻 Author
-
-**HardCodeDev**  
-- [GitHub](https://github.com/HardCodeDev777)  
-- [Itch.io](https://hardcodedev.itch.io/)
-
----
-
-> 💬 Got feedback, found a bug, or want to contribute? Open an issue or fork the repo on GitHub!
